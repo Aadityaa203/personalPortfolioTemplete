@@ -10986,3 +10986,7 @@ section.resume-section .resume-section-content {
 .col-sm-4{
   margin: 20px 35px;
 }
+section#Projects.resume-section{
+  padding-bottom: 40px;
+  padding-top: 15px;
+}
